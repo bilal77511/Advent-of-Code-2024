@@ -1,10 +1,15 @@
 # 🎄 Advent of Code 2024 Challenge
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1607434472257-5d2615dd2c1d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Coding Winter Challenge" width="600" style="max-width: 100%; height: 300px; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img 
+    src="https://images.ctfassets.net/m0jozvmb6niy/28w2ihUQ2CKP3YWkiveCSK/ad59929e4d16ebfc6910d126f558bee0/adventofcode-horizontal-2x1.png" 
+    alt="Coding Winter Challenge" 
+    width="600" 
+    style="max-width: 100%; height: 300px; object-fit: cover; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"
+  >
 
   [![Advent of Code](https://img.shields.io/badge/Advent%20of%20Code-2024-brightgreen?style=for-the-badge&logo=snowflake&logoColor=white)](https://adventofcode.com/)
-  [![GitHub Stars](https://img.shields.io/github/stars/yourusername/Advent-of-Code-2024?style=for-the-badge&logo=github&color=yellow)](#)
+  [![GitHub Stars](https://img.shields.io/github/stars/bilal77511/Advent-of-Code-2024?style=for-the-badge&logo=github&color=yellow)](#)
   [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)](#)
 </div>
 
