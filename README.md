@@ -39,7 +39,7 @@ Advent-of-Code-2024/
 | Day | Part 1 | Part 2 | Notebook | Notes |
 |-----|--------|--------|----------|-------|
 | 1   | ✅ | ✅ | [📓 Day 01](Day01/) | First challenge completed! |
-| 2   | ❌ | ❌ | [📓 Day 02](Day02/) | Waiting to be solved |
+| 2   | ✅ | ✅ | [📓 Day 02](Day02/) | Waiting to be solved |
 | 3-25 | ❌ | ❌ | Pending | More puzzles ahead! |
 
 ## 🛠 Tech Stack
