@@ -31,6 +31,9 @@ Advent-of-Code-2024/
 ├── Day02/
 │   ├── Day2.ipynb
 │   └── input.txt
+├── Day03/
+│   ├── Day3.ipynb
+│   └── input.txt
 └── README.md
 ```
 
@@ -39,8 +42,8 @@ Advent-of-Code-2024/
 | Day | Part 1 | Part 2 | Notebook | Notes |
 |-----|--------|--------|----------|-------|
 | 1   | ✅ | ✅ | [📓 Day 01](Day01/) | First challenge completed! |
-| 2   | ✅ | ✅ | [📓 Day 02](Day02/) | Waiting to be solved |
-| 3-25 | ❌ | ❌ | Pending | More puzzles ahead! |
+| 2   | ✅ | ✅ | [📓 Day 02](Day02/) | Day 2 challenge completed! |
+| 3   | ✅ | ✅ | [📓 Day 03](Day03/) | Day 3 challenge completed! |
 
 ## 🛠 Tech Stack
 
