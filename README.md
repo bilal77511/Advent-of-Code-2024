@@ -40,6 +40,9 @@ Advent-of-Code-2024/
 ├── Day05/
 │   ├── Day5.ipynb
 │   └── input.txt
+├── Day06/
+│   ├── Day6.ipynb
+│   └── input.txt
 └── README.md
 ```
 
@@ -52,6 +55,7 @@ Advent-of-Code-2024/
 | 3   | ✅ | ✅ | [📓 Day 03](Day03/) | Day 3 challenge completed! |
 | 4   | ✅ | ✅ | [📓 Day 04](Day04/) | Day 4 challenge completed! |
 | 5   | ✅ | ✅ | [📓 Day 05](Day05/) | Day 5 challenge completed! |
+| 5   | ✅ | ✅ | [📓 Day 06](Day06/) | Day 6 challenge completed! |
 
 ## 🛠 Tech Stack
 
