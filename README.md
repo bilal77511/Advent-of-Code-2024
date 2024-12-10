@@ -49,6 +49,12 @@ Advent-of-Code-2024/
 ├── Day08/
 │   ├── Day8.ipynb
 │   └── input.txt
+├── Day09/
+│   ├── Day9.ipynb
+│   └── input.txt
+├── Day10/
+│   ├── Day10.ipynb
+│   └── input.txt
 └── README.md
 ```
 
@@ -61,9 +67,11 @@ Advent-of-Code-2024/
 | 3   | ✅ | ✅ | [📓 Day 03](Day03/) | Day 3 challenge completed! |
 | 4   | ✅ | ✅ | [📓 Day 04](Day04/) | Day 4 challenge completed! |
 | 5   | ✅ | ✅ | [📓 Day 05](Day05/) | Day 5 challenge completed! |
-| 5   | ✅ | ✅ | [📓 Day 06](Day06/) | Day 6 challenge completed! |
-| 5   | ✅ | ✅ | [📓 Day 07](Day07/) | Day 7 challenge completed! |
-| 5   | ✅ | ✅ | [📓 Day 08](Day08/) | Day 8 challenge completed! |
+| 6   | ✅ | ✅ | [📓 Day 06](Day06/) | Day 6 challenge completed! |
+| 7   | ✅ | ✅ | [📓 Day 07](Day07/) | Day 7 challenge completed! |
+| 8   | ✅ | ✅ | [📓 Day 08](Day08/) | Day 8 challenge completed! |
+| 9   | ✅ | ✅ | [📓 Day 09](Day09/) | Day 9 was hard |
+| 10   | ✅ | ✅ | [📓 Day 10](Day10/) | Day 10 challenge completed! |
 
 ## 🛠 Tech Stack
 
