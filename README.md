@@ -72,6 +72,7 @@ Advent-of-Code-2024/
 | 8   | ✅ | ✅ | [📓 Day 08](Day08/) | Day 8 challenge completed! |
 | 9   | ✅ | ✅ | [📓 Day 09](Day09/) | Day 9 was hard |
 | 10   | ✅ | ✅ | [📓 Day 10](Day10/) | Day 10 challenge completed! |
+| 11   | ✅ | ✅ | [📓 Day 11](Day11/) | Day 11 challenge completed! |
 
 ## 🛠 Tech Stack
 
